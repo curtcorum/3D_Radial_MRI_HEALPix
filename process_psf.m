@@ -15,7 +15,11 @@
 ## <https://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*- 
-## @deftypefn {} {@var{retval} =} process_psf (@var{input1}, @var{input2})
+## @deftypefn {} {[@var{psf}, @var{fileName}, @var{filePath}] =} process_psf (@var{varargin})
+##
+##  file dialog (to nifti file with psf image) if no input
+##
+##  psf is a structure containing information about the psf
 ##
 ## @seealso{}
 ## @end deftypefn

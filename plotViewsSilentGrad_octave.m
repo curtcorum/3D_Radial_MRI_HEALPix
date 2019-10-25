@@ -15,7 +15,11 @@
 ## <https://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*- 
-## @deftypefn {} {@var{retval} =} array_max (@var{input1}, @var{input2})
+## @deftypefn {} {@var{views} =} plotViewsSilentGrad_octave (@var{varargin})
+##
+##  Gets the views and plots from silent_grad_xxx_yyy_ccc.txt files
+##
+##  file dialog if no path givien in varargin
 ##
 ## @seealso{}
 ## @end deftypefn

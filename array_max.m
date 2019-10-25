@@ -15,8 +15,8 @@
 ## <https://www.gnu.org/licenses/>.
 
 ## -*- texinfo -*- 
-## @deftypefn {} {@var{retval} =} array_max (@var{input1}, @var{input2})
-##
+## @deftypefn {} {[@var{maxval}, @var{maxcoord}] =} array_max (@var{ array_in})
+## finding coordinate not working yet 191013
 ## @seealso{}
 ## @end deftypefn
 

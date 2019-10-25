@@ -1,3 +1,6 @@
 [submodule "nifti_tools"]
 	path = nifti_tools
 	url = https://github.com/sergivalverde/nifti_tools
+[submodule "MEALPix"]
+	path = MEALPix
+	url = https://github.com/pochoi/MEALPix
