@@ -2,6 +2,7 @@
 
 ## Repository for preprint and ISBI 2020 abstract.
 HEALPix View-order for 3D Radial Self-Navigated Motion-Corrected ZTE MRI https://arxiv.org/abs/1910.10276
+
 IEEE International Symposium on Biomedical Imaging 2020 http://2020.biomedicalimaging.org/
 
 
