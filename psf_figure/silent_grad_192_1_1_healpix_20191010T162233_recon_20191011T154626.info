@@ -1,0 +1,21 @@
+>> psf.info
+ans =
+
+  scalar structure containing the fields:
+
+    filePath = /home/curt/ngfn_simulation_recon/octave/vieworder/silent_grad_192_1_1_healpix_20191010T162233_recon_20191011T154626/nifti.d
+    X0 =
+
+      -1.4171e-03   8.0181e-05  -8.2573e-05
+
+    W =
+
+       2.0698   2.0697   2.0808
+
+    amp =  1.0030
+    max_val =  0.93617
+    Center =
+
+       240   240   240
+
+    volume =  13.142
