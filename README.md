@@ -63,5 +63,6 @@ octave:1> help generate3DRadialTrajectory4
 
 octave:2> rawviews_test = generate3DRadialTrajectory4( 16, 1, 1, 'spiral', 'test');
 
+![Gradients figure](https://github.com/curtcorum/3D_Radial_MRI_HEALPix/blob/master/gradients.png)
 
-  
+![Endpoints figure](https://github.com/curtcorum/3D_Radial_MRI_HEALPix/blob/master/points.png)
