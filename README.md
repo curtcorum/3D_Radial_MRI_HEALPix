@@ -11,3 +11,15 @@ IEEE International Symposium on Biomedical Imaging 2020 http://2020.biomedicalim
 - optim https://octave.sourceforge.io/optim/
 2. ImageJ or Fiji  https://imagej.nih.gov/ij/  https://imagej.net/Fiji
 - Slanted Edge MTF https://imagej.nih.gov/ij/plugins/se-mtf/index.html
+
+
+## To Install:
+cd your_src_directory
+
+git clone git:https://github.com/curtcorum/3D_Radial_MRI_HEALPix.git
+
+cd 3D_Radial_MRI_HEALPix
+
+git submodule update --init
+
+
