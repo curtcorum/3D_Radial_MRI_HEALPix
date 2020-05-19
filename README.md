@@ -16,10 +16,11 @@ IEEE International Symposium on Biomedical Imaging 2020 http://2020.biomedicalim
 ## To Install:
 cd your_src_directory
 
-git clone git:https://github.com/curtcorum/3D_Radial_MRI_HEALPix.git
+git clone git://github.com/curtcorum/3D_Radial_MRI_HEALPix.git
 
 cd 3D_Radial_MRI_HEALPix
 
 git submodule update --init
 
 
+git submodule update --init
